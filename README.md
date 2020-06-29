@@ -9,7 +9,7 @@ Here's the link of all the presentations
 
    We have submitted this idea into Smart India Hackathon 2019 Hardware edition. 
 
-3) Smart Health Care System‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏https://youtu.be/6pJ15cOoRAQ
+3) Smart Health Care System‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ https://youtu.be/6pJ15cOoRAQ
   	
 	
 	We have proposed this idea in TCS EngiNx 2019
